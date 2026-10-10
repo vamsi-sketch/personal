@@ -1,0 +1,6 @@
+{
+  "name": "Personal Consistency Tracker",
+  "description": "Spreadsheet-style monthly consistency and habit tracker with analytics and streak calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+
+# Ignore environment files containing secrets
+
+.env
+.env.*
+!.env.example
+
+# Backend environment files
+
+backend/.env
+backend/.env.*
+!backend/.env.example
